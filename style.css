@@ -1,0 +1,155 @@
+/* Color Variables */
+:root {
+    --accent-red: #F40C33;
+    --deep-green: #213c1e;
+    --cream-gold: #f1cf81;
+    --white: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--cream-gold);
+    color: var(--deep-green);
+    line-height: 1.6;
+}
+
+/* Navigation */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 10%;
+    background: var(--deep-green);
+    color: var(--cream-gold);
+    height: 5%;
+}
+
+h2 {
+    color: var(--accent-red);
+    padding-top: 1em;
+}
+
+.logo {
+    font-weight: 800;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    width: 75%;
+}
+
+.logo span {
+    color: var(--accent-red);
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 2rem;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--cream-gold);
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: var(--accent-red);
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 100px 10%;
+    background-color: var(--deep-green);
+    color: var(--white);
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+}
+
+.highlight {
+    color: var(--accent-red);
+}
+
+.btn-primary {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 12px 30px;
+    background-color: var(--accent-red);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: transform 0.2s;
+}
+
+.btn-primary:hover {
+    transform: scale(1.05);
+    background-color: #d10a2b;
+}
+
+/* Content Grid */
+.content-grid {
+    padding: 80px 10%;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+.card img {
+    width: 50%;
+    border-radius: 8px;
+    border: 4px solid var(--deep-green);
+}
+
+.card-text {
+    width: 50%;
+}
+
+.card-text h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    border-left: 5px solid var(--accent-red);
+    padding-left: 15px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px;
+    background: var(--deep-green);
+    color: var(--cream-gold);
+}
+
+p {
+    padding-bottom: 1em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .card {
+        flex-direction: column;
+    }
+    .card img, .card-text {
+        width: 100%;
+    }
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+}
