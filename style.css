@@ -35,6 +35,10 @@ h2 {
     padding-top: 1em;
 }
 
+a {
+    color: var(--accent-red);
+}
+
 .logo {
     font-weight: 800;
     font-size: 1.5rem;
@@ -138,7 +142,7 @@ footer {
 }
 
 p {
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
 }
 
 /* Responsive Design */
