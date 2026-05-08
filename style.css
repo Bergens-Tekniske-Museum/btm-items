@@ -161,7 +161,7 @@ th {
 td {
     padding-right: 2em;
 }
-ul {
+ul,ol {
     padding-left: 1em;
 }
 li::marker {
