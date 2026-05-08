@@ -30,11 +30,7 @@ body {
     height: 5%;
 }
 
-h1 {
-    color: var(--deep-green);
-}
-
-h2 {
+h1, h2 {
     color: var(--accent-red);
     padding-top: 1em;
 }
