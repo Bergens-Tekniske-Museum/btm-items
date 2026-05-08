@@ -36,12 +36,13 @@ Etter hvert som kravene til effektivitet økte, la ingeniørene til flere trinn:
 
 ## Compound-maskinen i Norge
 
-Norge, som en stor sjøfartsnasjon, adopterte denne teknologien raskt. Mange norske verksteder som **Akers Mekaniske Verksted** og **Nylands Verksted** ble eksperter på å bygge og vedlikeholde disse maskinene. De var arbeidshestene i den norske handelsflåten i generasjoner.
+Norge, som en stor sjøfartsnasjon, adopterte denne teknologien raskt. Mange norske verksteder som **Akers Mekaniske Verksted** og **Bergens Mekaniske Verksted** ble eksperter på å bygge og vedlikeholde disse maskinene. De var arbeidshestene i den norske handelsflåten i generasjoner.
 
 ## Teknisk Oppsummering
+
 | Egenskap | Beskrivelse |
-| :--- | :--- |
-| **Virkningsgrad** | Betydelig høyere enn enkel ekspansjon |
-| **Drivstoff** | Kull (senere oljefyring) |
-| **Kjøling** | Bruk av kondensator for å gjenvinne ferskvann til kjelen |
-| **Arvtager** | Dampturbinen (for fart) og Dieselmotoren (for økonomi) |
+| -- | -- |
+| Virkningsgrad | Betydelig høyere enn enkel ekspansjon |
+| Drivstoff | Kull (senere oljefyring) |
+| Kjøling | Bruk av kondensator for å gjenvinne ferskvann til kjelen |
+| Arvtager | Dampturbinen (for fart) og Dieselmotoren (for økonomi) |
