@@ -164,3 +164,6 @@ td {
 ul {
     padding-left: 1em;
 }
+li::marker {
+    color: var(--accent-red);
+}
