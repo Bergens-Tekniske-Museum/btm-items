@@ -166,4 +166,5 @@ ul,ol {
 }
 li::marker {
     color: var(--accent-red);
+    font-weight: bolder;
 }
