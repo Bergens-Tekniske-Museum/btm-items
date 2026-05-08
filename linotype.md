@@ -7,6 +7,8 @@ title: Linotype
 
 Linotype-maskinen har blitt kalt «det åttende underverk» av selveste Thomas Edison, og det med god grunn. Da den ble introdusert på slutten av 1800-tallet, revolusjonerte den trykkeribransjen og måten informasjon ble spredt på. Det var maskinen som gjorde dagsaviser slik vi kjenner dem mulig.
 
+Denne maskinen kommer fra Bergens Tidende, og var i bruk til settingen av aviser i mange tiår, før Bergens Tekniske Museum overtok den. Den er i dag ikke i brukbar stand, men vi håper å en gang få den til å fungere igjen.
+
 ## En revolusjon i blysats
 
 Før Linotype ble oppfunnet, var boktrykkerkunsten en ekstremt tidkrevende prosess. Hver eneste bokstav i en avisartikkel måtte plukkes for hånd av en setter, plasseres i en vinkelhake, og senere legges tilbake i riktig skuff etter trykking.
