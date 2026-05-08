@@ -50,10 +50,6 @@ a {
     width: 75%;
 }
 
-.logo span {
-    color: var(--accent-red);
-}
-
 .nav-links {
     list-style: none;
     display: flex;

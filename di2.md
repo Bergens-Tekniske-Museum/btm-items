@@ -5,9 +5,9 @@ title: Di2 lokomotiv
 
 # Di2 Diesellokomotiv
 
-Di2 er et diesel-hydraulisk lokomotiv. Det ble bygd i to utgaver. Seks loomotiver ble bygget av MaK (Maschinenbau Kiel) i Tyskland, og de resterende 48 lokomotivene ble bygget av Thune i Oslo. Lokomotivene var bygget som skiftelok og for lett godstogtjeneste.
+Di2 er et diesel-hydraulisk lokomotiv. Det ble bygd i to utgaver. Seks lokomotiver ble bygget av MaK (Maschinenbau Kiel) i Tyskland, og de resterende 48 lokomotivene ble bygget av Thune i Oslo. Lokomotivene var bygget som skiftelok og for lett godstogtjeneste.
 
-De første lokomotivene ble levert i 1954, og de siste i 1973. De tyskbygde lokomotivene hadde dieselmotorer fra MaK, mens de norskbygde hadde dieselmotorer fra Bergens Mekaniske Verksted. Det er også grunnen til at vi har ett her på museet.
+De første lokomotivene ble levert i 1954, og de siste i 1973. De tyskbygde lokomotivene hadde dieselmotorer fra MaK, mens de norskbygde hadde dieselmotorer fra Bergens Mekaniske Verksted. Det er også grunnen til at vi har ett her på .
 
 ## Di2-817
 
