@@ -13,8 +13,6 @@ På begynnelsen av 1970-tallet var de forrige vognene (fra 1954) modne for utski
 
 Bergens Tekniske Museum har bevart den røde 1954-vognen, som for tiden står lagret. Den har behov for omfattende restaurering før den er utstillingsklar, og vi jobber med å samle inn penger for dette. Vi har bl.a. fått tilsagn om midler fra Vestland Fylkeskommune, men mangler fortsatt rundt en million.
 
----
-
 ## Tekniske Spesifikasjoner
 
 | Egenskap | Beskrivelse |
