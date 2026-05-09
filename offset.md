@@ -1,5 +1,5 @@
 ---
-title: OFfsett-pressen
+title: Offsett-pressen
 layout: default
 ---
 
@@ -39,7 +39,7 @@ Enkeltark mates inn i maskinen. Dette brukes ofte til bøker, brosjyrer og ekskl
 ### Rotasjonsoffset (rotasjonspresse)
 Papiret kommer fra store ruller i en sammenhengende bane. Disse maskinene er ekstremt raske og brukes til aviser og ukeblader i store opplag.
 
-![Offsettpressen](img/offset.svg)
+![Offsettpressen](img/offset.svg)  
 ([Fra Wikipedia, laget av Yrithinnd](https://en.wikipedia.org/wiki/File:Offset.svg))
 
 ## Fargesystemet (CMYK)

@@ -440,7 +440,7 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="39.928585"
          y="99.719322"
-         id="tspan8269">Water rollers</tspan></text>
+         id="tspan8269">Vannruller</tspan></text>
     <text
        x="162.92859"
        y="74.719322"
@@ -449,7 +449,7 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="162.92859"
          y="74.719322"
-         id="tspan8273">Ink rollers</tspan></text>
+         id="tspan8273">Blekkruller</tspan></text>
     <text
        x="42.928585"
        y="214.71931"
@@ -458,7 +458,7 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="42.928585"
          y="214.71931"
-         id="tspan8277">Water</tspan></text>
+         id="tspan8277">Vann</tspan></text>
     <text
        x="222.92859"
        y="196.71931"
@@ -467,10 +467,10 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="222.92859"
          y="196.71931"
-         id="tspan8297">Plate</tspan><tspan
+         id="tspan8297">Trykklate-</tspan><tspan
          x="222.92859"
          y="212.71931"
-         id="tspan8996">cylinder</tspan></text>
+         id="tspan8996">sylinder</tspan></text>
     <text
        x="225.92859"
        y="252.71931"
@@ -479,10 +479,10 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="225.92859"
          y="252.71931"
-         id="tspan8305">Offset</tspan><tspan
+         id="tspan8305">Offset-</tspan><tspan
          x="225.92859"
          y="268.7193"
-         id="tspan8998">cylinder</tspan></text>
+         id="tspan8998">sylinder</tspan></text>
     <text
        x="59.928585"
        y="326.71933"
@@ -491,7 +491,7 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="59.928585"
          y="326.71933"
-         id="tspan8313">Paper</tspan></text>
+         id="tspan8313">Papir</tspan></text>
     <text
        x="220.92859"
        y="345.71933"
@@ -500,9 +500,9 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"><tspan
          x="220.92859"
          y="345.71933"
-         id="tspan8317">Impression</tspan><tspan
+         id="tspan8317">Trykk-</tspan><tspan
          x="220.92859"
          y="361.71933"
-         id="tspan9000">cylinder</tspan></text>
+         id="tspan9000">sylinder</tspan></text>
   </g>
 </svg>
