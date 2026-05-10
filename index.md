@@ -1,8 +1,7 @@
 ---
-title: Oversikt
+title: index
 layout: default
 ---
-
 
 - [dampmaskin.md](dampmaskin.html)
 - [di2.md](di2.html)
@@ -16,6 +15,7 @@ layout: default
 - [linotype.md](linotype.html)
 - [motorfabrikkene.md](motorfabrikkene.html)
 - [munck.md](munck.html)
+- [naf-kiosken.md](naf-kiosken.html)
 - [nr10.md](nr10.html)
 - [nr16.md](nr16.html)
 - [offset.md](offset.html)
