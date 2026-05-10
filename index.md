@@ -2,7 +2,6 @@
 title: index
 layout: default
 ---
-
 - [dampmaskin.md](dampmaskin.html)
 - [di2.md](di2.html)
 - [dynamittvarmer.md](dynamittvarmer.html)
