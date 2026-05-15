@@ -11,5 +11,5 @@ De ble designet i 1913 av ingeniør Ralph Wilson. Fargen er såkalt «Bergensgr�
 
 Bergenshydranten har spredd seg utover 1972-grensene for Bergen, og er i dag å finne i alle bydeler. I tillegg til Bergenshydranten finst det også andre hydrantmodeller i bruk i Bergen, og mange vannpunkt er lokalisert i kummer i gaten.
 
-Totalt er det over 5000 hydrantpunkter, med 3500 av de som hydranter, der mange er Bergenshydranten. Resten er kummer i gater e.l.
+Totalt er det over 5000 brannvannspunkter, med 3500 av de som hydranter, der mange er Bergenshydranten. Resten er kummer i gater e.l.
 
