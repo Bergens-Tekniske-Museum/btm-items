@@ -5,5 +5,5 @@ layout: default
 
 {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
 {% for page in pages %}
-    title: {{page.title}}
+    - [{{page.title}}]({{%page.url}})
 {% endfor %}
