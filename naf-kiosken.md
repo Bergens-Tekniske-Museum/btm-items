@@ -3,7 +3,7 @@ title: NAF-telefonkiosken
 layout: default
 ---
 
-# NAF-telefonikiosken
+# NAF-telefonkiosken
 
 NAF-telefonkiosken var tidligere plassert ut på fjelloverganger og andre utsatte steder. Før mobiltelefonens inntog på nittitallet var vanlig fasttelefon eneste måte å få varslet myndighetene om hendelser, og på mange fjelloverganger var det langt mellom de fastboende. Derfor utplasserte NAF karakteristiske gule telefonkiosker.
 
