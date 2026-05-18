@@ -2,20 +2,8 @@
 title: index
 layout: default
 ---
-- [dampmaskin.md](dampmaskin.html)
-- [di2.md](di2.html)
-- [dynamittvarmer.md](dynamittvarmer.html)
-- [floibanen.md](floibanen.html)
-- [gmc_cckw.md](gmc_cckw.html)
-- [hoppetusse.md](hoppetusse.html)
-- [index.md](index.html)
-- [jomfru.md](jomfru.html)
-- [kongebilene.md](kongebilene.html)
-- [linotype.md](linotype.html)
-- [motorfabrikkene.md](motorfabrikkene.html)
-- [munck.md](munck.html)
-- [naf-kiosken.md](naf-kiosken.html)
-- [nr10.md](nr10.html)
-- [nr16.md](nr16.html)
-- [offset.md](offset.html)
-- [riksen.md](riksen.html)
+
+{% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+{% for page in pages %}
+    title: {{page.title}}
+{% endfor %}
