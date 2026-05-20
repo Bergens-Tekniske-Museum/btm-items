@@ -1,5 +1,5 @@
 ---
-title: Munck-eventyert
+title: Munck - et industrieventyr i Bergen
 layout: default
 ---
 
