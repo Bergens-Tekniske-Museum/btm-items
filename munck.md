@@ -5,7 +5,12 @@ layout: default
 
 # Munck Cranes: Et bergensk industrieventyr
 
-Munck er en av Norges mest kjente industribedrifter med røtter i Bergen. Selskapet har i over 90 år vært en verdensledende leverandør av kraner, taljer, løfteutstyr og generell mekanisk industri. 
+Munck er en av Norges mest kjente industribedrifter med røtter i Bergen. Selskapet har i over 90 år vært en verdensledende leverandør av kraner, taljer, løfteutstyr og generell mekanisk industri.
+
+## Munck-gjenstander på BTM
+
+- [Munck-traktoren](munck-traktor.html)
+- [Munck/Sunbeam-trolleybuss](sunbeam-trolleybuss.html)
 
 ## Historie og opprinnelse
 Selskapet ble grunnlagt av Sverre Munck** i 1924. Det startet som en handelsbedrift, men utviklet seg raskt til en produksjonsbedrift. Til å begynne med produserte de flere typer teknologiske og mekaniske produkter. F.eks. er trolleybussen ved inngangen til BTM produsert av Munck, med elektrisk utrustning og chassis fra NEBB og Sunbeam.
