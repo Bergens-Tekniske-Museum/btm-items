@@ -19,4 +19,4 @@ Selskapets hovedkvarter ble senere flyttet til Überlingen (Bodensee) i 1952 og 
 | **Motor**  | 1 sylinder 4 taks diesel, 10-14 hk, startes med sveiv og sigaretter. |
 | **Gearkasse** | type K30D. |  
 
-Benyttet på Erviken gård. Gårdsbruk innerst i Eidsvåg-bukten, som først på 1600 tallet tilhørte Allehelgen-kirkens sitt gods. Gården tilhørte senere Wallem Steckmest & Co. skipsrederfamilie som var første eier av traktoren. Traktoren var operativ da BTM overtok den.
+Benyttet på Erviken gård, et gårdsbruk innerst i Eidsvåg-bukten, som først på 1600 tallet tilhørte Allehelgen-kirkens sitt gods. Gården tilhørte senere Wallem Steckmest & Co. skipsrederfamilie som var første eier av traktoren. Traktoren var operativ da BTM overtok den.
