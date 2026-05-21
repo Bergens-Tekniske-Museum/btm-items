@@ -1,13 +1,13 @@
 ---
-title: Lincoln Continental 1970
+title: 1970 Lincoln Continental
 layout: default
 ---
 
 # 1970 LINCOLN CONTINENTAL
 
-**EIER:** BVK
+**Eier:** BVK
 
-Denne kongebilen var også en gave til kongehuset og Kong Olav fra Fana Kommune. Ettersom Fana kommune, sammen med Laksevåg og Åsane kommuner, slo seg sammen med Bergen kommune dette året, fikk bilen registreringsnummeret O-1, i stedet for R-1 som var brukt på den forrige bilen. Dette hadde tidligere blitt benyttet av Bergen Politikammer. 
+Denne kongebilen var en gave til kongehuset og Kong Olav fra Fana Kommune. Ettersom Fana kommune, sammen med Laksevåg og Åsane kommuner, slo seg sammen med Bergen kommune dette året, fikk bilen registreringsnummeret O-1, i stedet for R-1 som var brukt på den forrige bilen. Dette hadde tidligere blitt benyttet av Bergen Politikammer. 
 
 Bilen var parkert på Gamlehaugen og ble benyttet av kongehusets medlemmer ved besøk i Bergen. Bilen vil særlig forbindes med åpningen av Festspillene hver vår. Bergen var den eneste byen utenom Oslo hvor kongefamilien hadde egen bil.
 
