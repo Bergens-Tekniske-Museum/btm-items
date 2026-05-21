@@ -5,6 +5,10 @@ layout: default
 
 # Munck Sunbeam trolleybuss
 
+## Nybestilt til linje 2.
+
+Når linje 2 ble opprettet i 1955 ble det bestilt 15 nye busser. Linje 2 var en tung linje, og krevde store busser, med plass til 90 passasjerer. Etterhvert ble det bestilt tre busser til.
+
 Denne trolleybussen er bygget på et chassis fra Sunbeam. Den jobben er gjort av bergensbedriften [Munck](munck.html), og representerer viktig industrihistorie.
 
 Den elektriske utrustningen er også norsk, fra [Norsk Elektrisk & Brown Boveri][wp-nebb].
