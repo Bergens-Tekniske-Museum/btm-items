@@ -26,7 +26,6 @@ Benyttet på Erviken gård, et gårdsbruk innerst i Eidsvåg-bukten, som først 
 | Tekniske data kjøretøy | Detaljer / Variasjoner | K18 (K18M) | Tilleggsinfo |
 | :--- | :--- | :--- | :--- |
 | **Type** | | Traktor | |
-| **Kategori** | | | |
 | **Byggeår fra / til** | 09/1936 - 1937 | 1938 - 1941 (1938 - 1950) | 1940 - 1941 |
 | **Bygget ca. Stykke** | 195 (560) | 148 (5865) | få |
 | **Knut (Hk)** | 15 | 16 | |
