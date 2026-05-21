@@ -10,7 +10,7 @@ Munck er en av Norges mest kjente industribedrifter med røtter i Bergen. Selska
 ## Munck-gjenstander på BTM
 
 - [Munck-traktoren](munck-traktor.html)
-- [Munck/Sunbeam-trolleybuss](sunbeam-trolleybuss.html)
+- [Munck/Sunbeam-trolleybuss](munck-sunbeam.html)
 
 ## Historie og opprinnelse
 Selskapet ble grunnlagt av Sverre Munck** i 1924. Det startet som en handelsbedrift, men utviklet seg raskt til en produksjonsbedrift. Til å begynne med produserte de flere typer teknologiske og mekaniske produkter. F.eks. er trolleybussen ved inngangen til BTM produsert av Munck, med elektrisk utrustning og chassis fra NEBB og Sunbeam.
