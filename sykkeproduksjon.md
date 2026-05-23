@@ -1,9 +1,9 @@
 ---
-title:
+title: Norsk sykkelhistorie
 layout: default
 ---
 
-# Norsk sykkelproduksjon: Historie, ikoner og den moderne æra
+# Norsk sykkelhistorie
 
 Norge har en rik og fargerik historie innen sykkelproduksjon. Fra slutten av 1800-tallet og frem til årtusenskiftet var sykkelen ikke bare et transportmiddel, det var også fundamentet for en betydelig industriell suksesshistorie, særlig i Rogaland. I dag er masseproduksjonen flyttet til lavkostland, men norsk design, innovasjon og nisjeproduksjon lever i beste velgående.
 
