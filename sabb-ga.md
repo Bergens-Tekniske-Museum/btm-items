@@ -17,8 +17,8 @@ I dag eies merkenavnet av Frydenbø-konsernet.
 
 ## Motoren du ser her
 
-Foran deg ser du en Model GA, som er luftkjølt livbåtmotor. Denne motoren har 10 hestekrefter, og en sylinder. Den veier 220kg.
+Foran deg ser du en Model GA, som er luftkjølt livbåtmotor. Denne motoren har 10 hestekrefter, og en sylinder. Den veier 220kg. Disse motorene var primært laget for bruk i livbåter, men fikk også en rekke andre bruksområder fordi de var luftkjølte og enkle.
 
-Disse motorene er svært driftssikre, ettersom de er svært enkle og har få deler, og en solid konstruksjon.
+Disse motorene er svært driftssikre, ettersom de er svært enkle og har få deler, og en solid konstruksjon. De er forholdsvis moderne i konstruksjonen, med rullelager og direkte insprøyting av brennoljen.
 
 Motoren her har gått som stasjonærmotor på en betongbil, og er ombygd til marinutgave av Jon Grutle, som også eier motoren.
