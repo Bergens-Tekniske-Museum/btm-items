@@ -21,4 +21,6 @@ Foran deg ser du en Model GA, som er luftkjølt livbåtmotor. Denne motoren har 
 
 Disse motorene er svært driftssikre, ettersom de er svært enkle og har få deler, og en solid konstruksjon. De er forholdsvis moderne i konstruksjonen, med rullelager og direkte insprøyting av brennoljen.
 
+Som standard har de den utrustningen du ser her, med kobling for å frikoble propellen, og justering av vinklingen for vripropell. Med vripropell endres vinklingen på propellvingene, slik at man kan bakke uten å måtte endre rotasjonsretning på på propellen. Dette kalles å justere stigningen på propllen.
+
 Motoren her har gått som stasjonærmotor på en betongbil, og er ombygd til marinutgave av Jon Grutle, som også eier motoren.
