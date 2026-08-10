@@ -13,7 +13,7 @@ Sabb produserte dieselmotorer frem til 2001, da Sabb gikk over til å kun marini
 
 I dag eies merkenavnet av Frydenbø-konsernet.
 
-![Tegning av motoren][img/sabb_ga.png]
+![Tegning av motoren](img/sabb_ga.png)
 
 ## Motoren du ser her
 
