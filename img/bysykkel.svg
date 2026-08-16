@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="100%" height="100%">
+  <!-- Venstre hjul -->
+  <path 
+    fill="#008a38" 
+    fill-rule="evenodd" 
+    d="M 43,71 A 41,41 0 1,0 43,153 A 41,41 0 1,0 43,71 Z M 43,90 A 22,22 0 1,1 43,134 A 22,22 0 1,1 43,90 Z" 
+  />
+
+  <!-- Høyre hjul -->
+  <path 
+    fill="#008a38" 
+    fill-rule="evenodd" 
+    d="M 137,71 A 41,41 0 1,0 137,153 A 41,41 0 1,0 137,71 Z M 137,90 A 22,22 0 1,1 137,134 A 22,22 0 1,1 137,90 Z" 
+  />
+
+  <!-- Venstre horisontale strek (styre/sete) -->
+  <rect 
+    x="29" 
+    y="40" 
+    width="51" 
+    height="20" 
+    rx="10" 
+    ry="10" 
+    fill="#008a38" 
+  />
+
+  <!-- Høyre buede strek (setevinkel/smilefjes-form) -->
+  <path 
+    d="M 95,33 C 107,46 125,46 137,33" 
+    fill="none" 
+    stroke="#008a38" 
+    stroke-width="20" 
+    stroke-linecap="round" 
+  />
+</svg>
